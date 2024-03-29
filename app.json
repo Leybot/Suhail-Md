@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "name": "xky_ley_3.0",
+  "description": "I am xky-ley-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "logo": "https://telegra.ph/file/02736372ad67e87f8be6a.jpg",
+  "keywords": ["whatsappbot", "xky_leyMd", "xky_ley Md bot", "xky-ley-Md", "xky-leyMdWhatsaooBot", "xky-leyWaBot","xky-leyMD","xky-ley Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "xky_ley_3.0",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "xky_ley_3.0🥷🖤"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
+      "value": "https://telegra.ph/file/02736372ad67e87f8be6a.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -96,11 +96,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "•"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "50931118037"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "xky_ley_3.0🖤🥷",
       "required": false 
     },
     "PACK_AUTHER": {
