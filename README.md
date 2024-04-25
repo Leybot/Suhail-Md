@@ -1,4 +1,4 @@
- <h1 align="center"> xky_ley Md </h1> 
+ <h1 align="center"> XKY JUICE MD </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Xky_ley-Md" height="400" src="https://telegra.ph/file/02736372ad67e87f8be6a.jpg">
+    <img alt="SKY JUICE MD" height="400" src="https://telegra.ph/file/02736372ad67e87f8be6a.jpg">
   </a>
 </p>
     
@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Xky_ley_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="SKY JUICE MD is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
- <a href="https://github.com/Leybot">
+ <a href="https://github.com/Juicebot">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/SuhailTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Xky_ley MD whatsapp bot uses
+<p align="center"> SKY JUICE MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,11 +63,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Leybot/Suhail-Md"><b>Xky_ley-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Leybot/Suhail-Md"><b>SKY JUICE MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/Leybot/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Juicebot/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -145,7 +145,7 @@
    
 ## 
 
-- *Xky_ley-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *SKY JUICE MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Xky_ley-Md at your own risk by keeping this warning in mind.*
+- *Use SKY JUICE MD at your own risk by keeping this warning in mind.*
 
