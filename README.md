@@ -1,15 +1,15 @@
- <h1 align="center"> xky_ley Md </h1> 
+ <h1 align="center"> Juice•MD </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Leybot/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Juice•MD/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Xky_ley-Md" height="400" src="https://telegra.ph/file/02736372ad67e87f8be6a.jpg">
+    <img alt="Juice•MD" height="400" src="https://telegra.ph/file/02736372ad67e87f8be6a.jpg">
   </a>
 </p>
     
@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Xky_ley_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Juice•MD is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
- <a href="https://github.com/Leybot">
+ <a href="https://github.com/Juice•bot">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/SuhailTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Xky_ley MD whatsapp bot uses
+<p align="center"> Juice•MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Leybot/Suhail-Md"><b>Xky_ley-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Leybot/Suhail-Md"><b>Juice•MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/Leybot/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/Leybot/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/Juice•bot/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/Juice•bot/Suhail-Md/discussions/new?category=q-a)!
 
 
 
@@ -145,7 +145,7 @@
    
 ## 
 
-- *Xky_ley-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Juice•MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Xky_ley-Md at your own risk by keeping this warning in mind.*
+- *Use Juice•MD at your own risk by keeping this warning in mind.*
 
