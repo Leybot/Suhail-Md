@@ -55,8 +55,8 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "50931118037,509311180
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,50931118037";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "50931118037,50931118037";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "null";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
